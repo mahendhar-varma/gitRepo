@@ -1,0 +1,24 @@
+.specificContainer {
+  padding: 30px;
+  height: 100vh;
+  margin: 10px;
+}
+
+.specificHead {
+  font-size: 30px;
+  margin: 10px;
+}
+
+.specificImage {
+  width: 200px;
+  height: 200px;
+}
+
+.specificText {
+  font-size: 23px;
+  margin: 10px;
+}
+
+.forks {
+  margin-left: 20px;
+}

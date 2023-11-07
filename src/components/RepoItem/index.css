@@ -1,0 +1,29 @@
+.list-item {
+  margin: 10px;
+}
+
+.itemContainer {
+  display: flex;
+  flex-direction: row;
+  text-align: left;
+}
+
+.avatar {
+  width: 80px;
+  height: 80px;
+  margin-right: 10px;
+}
+
+.head {
+  font-size: 18px;
+  color: black;
+}
+
+.text {
+  font-size: 15px;
+  color: black;
+}
+
+.link {
+  text-decoration: none;
+}
